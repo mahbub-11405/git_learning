@@ -1,0 +1,2 @@
+File b with one line
+line 2 added
